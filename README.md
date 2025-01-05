@@ -31,9 +31,6 @@
   <li><strong>🚀 Treinamento do Modelo:</strong>
     <p>Avaliação de algoritmos de machine learning, incluindo <strong>Logistic Regression</strong>, <strong>Random Forest</strong>, <strong>SVM</strong>, <strong>XGBoost</strong> e <strong>AdaBoost</strong>, com validação cruzada (k-fold).</p>
   </li>
-  <li><strong>📈 Avaliação do Modelo:</strong>
-    <p>Métricas como <strong>precision</strong>, <strong>recall</strong>, <strong>F1-score</strong>, matriz de confusão e relatórios detalhados para identificar o melhor modelo.</p>
-  </li>
 </ol>
 
 <h2>Resultados</h2>
